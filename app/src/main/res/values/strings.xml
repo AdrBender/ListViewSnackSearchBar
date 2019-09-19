@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">ListView SnackSearchBar </string>
+     <string name="search_hint">Procure aqui...</string>
+     <string name="action_settings">Settings</string>
+ 	
+	<string-array name="planetas_nomes">
+		   <item>Mercúrio</item>
+        <item>Vênus</item>
+        <item>Terra</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+		   <item>Saturno</item>
+        <item>Urano</item>
+        <item>Netuno</item>
+    </string-array>
+	<!--
+	<string-array name="planetas_imagens">
+        <item>@drawable/terra</item>
+        <item>@drawable/marte</item>
+        <item>@drawable/urano</item>
+        <item>@drawable/netuno</item>
+    </string-array>
+	-->
+
+</resources>
